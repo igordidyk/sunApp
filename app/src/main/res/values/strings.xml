@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SunApp</string>
+    <string name="app_name"> SunApp</string>
     <string name="place_info">Place information</string>
     <string name="data_info">Sunrise Sunset Info</string>
 </resources>

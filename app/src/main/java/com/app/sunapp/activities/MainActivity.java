@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.setupWithViewPager(viewPager);
 
         toolbar = findViewById(R.id.toolbar);
+        toolbar.setLogo(R.drawable.sun_and_cloud);
         setSupportActionBar(toolbar);
     }
 
