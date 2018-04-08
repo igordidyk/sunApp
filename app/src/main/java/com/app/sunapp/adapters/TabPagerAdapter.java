@@ -39,7 +39,7 @@ public class TabPagerAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         switch (position) {
             case 0:
-                return mContext.getString(R.string.data_info);
+                return mContext.getString(R.string.place_info);
             default:
                 return mContext.getString(R.string.data_info);
         }
