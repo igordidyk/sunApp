@@ -2,4 +2,5 @@
     <string name="app_name"> SunApp</string>
     <string name="place_info">Place information</string>
     <string name="data_info">Sunrise Sunset Info</string>
+    <string name="key_api">AIzaSyAKzBDWssMObf5awRmhn1eOnu8DewKuZRI</string>
 </resources>
